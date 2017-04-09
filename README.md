@@ -1,20 +1,27 @@
 # LeonLeaks 2.0
 ### *Zestia is not what it seems*
 
+## Disclaimer
+
+This inforamtion has been provided as a service of the community because of the shady actions of Leon. As a result, **do not witchhunt anyone involved in the leak, including Leon, Rhett, or anyone listed in the credits below**. This includes doxxing, DDoSing, hacking, etc.
+
 ## Thesis
 
 Leon is a manipulative devloper in the iOS Community.
+
 His fans have been brainwashed into thinking he's a good guy when this is far from the truth.
+
 His so called free tweaks (which he has claimed are signed by him in the past) are actually from
-tutuhelper, a FREE service, which offers a wide variety of tweaks and apps. To crack down on people
+TuTuHelper, a FREE service, which offers a wide variety of tweaks and apps. To crack down on people
 stealing and claiming there signed tweaks, they made it so the user must have there application installed.
 However once Leon and his team noticed this they decided to release a fix with there name on it and told their
-followers not to open the app as it's malicious (which it's not). If this is the case then why would he be distributing his apps?
+followers not to open the app as it's malicious (which it's not, as far as we know). If this is the case then why would he be distributing their apps?
 
 ## Group Chats
 
 Now to his group chats (he has multiple for multiple "parts" of Zestia). This is the most manipulative and scummy place on Twitter.
-A hardcore Cynostial fan and Zestia "Dev" (Who probably can't code and only knows how-to steal some plists") named Rhett was asked if he should be using TuTu's tweaks as that's stealing. He replied saying that he doesn't care and thinks that no-one will find out anyway. Well we did.
+
+A hardcore Cynostial fan and Zestia "Dev" (Who probably can't code and only knows how-to steal some plists") named Rhett was asked if he should be using TuTu's tweaks as that's stealing. He replied saying that he doesn't care and thinks that nobody will find out anyway. Well we did.
 
 We linked to the DMs below, as with other parts of this leak
 
@@ -74,7 +81,20 @@ The DMs were extracted using DMArchiver, an open-source DM extractor.
 ## Fake Giveaways
 
 Note: He has done fake giveaways for iPhone 7's in the past where he made users click ads on his site as many times as he could.
+
 This is against the advertiser's ToC and is considered fraud.
+
+## Contribution
+
+LeonLeaks 2.0 is a collaborative project. If you have any information regarding the leak:
+
+- Please contact someone involved in the leak (see below), Not everyone in DevSquad is involved!
+
+- Please fork this repo and file for a pull request. We will review the legitimacy of the leak and possibly add it.
+
+- Do not gain access to any information illegally. So don't doxx/hack Leon or any other Zestia staff member
+
+- If you wish to be anonomous, please remove any information tracing back to you and directly send the new info to a leak member. We will have one of the leak maintainers upload it for you.
 
 ## Credits
 **@DevSquad_**: Organizer_
