@@ -1,0 +1,436 @@
+[DMConversationEntry] Ahmad S.| UW added you.
+[2017-03-26 14:41:24] <Rhett [Zestia]> It's the bundle ID
+[2017-03-26 14:41:30] <Rhett [Zestia]> Yes
+[2017-03-26 14:41:33] <Dylan [Zestia Team]> Got it
+[2017-03-26 14:41:45] <Rhett [Zestia]> So basically you guys just change those 3 things
+[2017-03-26 14:41:52] <Rhett [Zestia]> Then save and upload
+[2017-03-26 14:41:57] <Rhett [Zestia]> Simple
+[2017-03-26 14:41:59] <Dylan [Zestia Team]> Wait explain this again
+[2017-03-26 14:42:04] <Dylan [Zestia Team]> The name named Betternet++
+[2017-03-26 14:42:09] <Dylan [Zestia Team]> Didn't catch the other 2
+[2017-03-26 14:42:46] <Rhett [Zestia]> Let me take a screenshot so u can understand
+[2017-03-26 14:42:51] <Dylan [Zestia Team]> Ok
+[2017-03-26 14:43:58] <Rhett [Zestia]> [Media-image] https://ton.twitter.com/1.1/ton/data/dm/846070236155662340/846070230329700354/wpQygklV.jpg
+[2017-03-26 14:44:33] <Rhett [Zestia]> See. It's the name that it shows while installing
+[2017-03-26 14:44:50] <Rhett [Zestia]> itms-services://?action=download-manifest&url=https://raw.githubusercontent.com/JosephShenton/ipas/master/PLISTNAME.plist
+[2017-03-26 14:45:08] <Rhett [Zestia]> That's a download link. It has the itms part so IOS knows to install as an app
+[2017-03-26 14:45:27] <Rhett [Zestia]> But don't worry about all that. You guys just need to know those 3 things
+[2017-03-26 14:45:38] <iOSHQ [Zestia Team]> I see
+[2017-03-26 14:45:41] <Dylan [Zestia Team]> So basically we just change the name and hit upload?
+[2017-03-26 14:46:10] <Rhett [Zestia]> Change the name only as long as you have the whole plist
+[2017-03-26 14:46:24] <Rhett [Zestia]> Actually getting the plist link may be the hardest
+[2017-03-26 14:46:34] <Dylan [Zestia Team]> How would we do that?
+[2017-03-26 14:47:17] <Rhett [Zestia]> That's kinda what I'm wondering since most the signed iPas are in apps like tutu. Idk how to get the download link
+[2017-03-26 14:48:08] <Dylan [Zestia Team]> One second I might have an idea
+[2017-03-26 14:48:34] <Rhett [Zestia]> But you guys basically have plist mastered. Super easy stuff.
+[2017-03-26 14:49:28] <Josh [Zestia]> Sorry I was eating ice cream
+[2017-03-26 14:50:18] <Rhett [Zestia]> I'll send the plist template
+[2017-03-26 14:51:08] <Dylan [Zestia Team]> Ok Rhett so couldn't we go into tutu, share it to ourselves, open the link in safari, copy the download button, open that in say documents, edit the files, and boom, it downloads?
+[2017-03-26 14:52:43] <iOSHQ [Zestia Team]> No
+[2017-03-26 14:52:49] <iOSHQ [Zestia Team]> Tutu has a safeguard now
+[2017-03-26 14:52:52] <iOSHQ [Zestia Team]> And it's stealing
+[2017-03-26 14:52:59] <iOSHQ [Zestia Team]> We're not Gabriel
+[2017-03-26 14:52:59] <Dylan [Zestia Team]> Yes bit there's an easy way to bypass
+[2017-03-26 14:53:08] <Dylan [Zestia Team]> We always have been "stealing"
+[2017-03-26 14:53:14] <Dylan [Zestia Team]> Zestia is a hub
+[2017-03-26 14:53:35] <iOSHQ [Zestia Team]> Oh
+[2017-03-26 14:53:37] <Dylan [Zestia Team]> Like a library, we hold all them so peolle don't need to search for the book they want
+[2017-03-26 14:53:42] <iOSHQ [Zestia Team]> EXPOSED
+[2017-03-26 14:53:56] <iOSHQ [Zestia Team]> I'll sniff around
+[2017-03-26 14:54:08] <Rhett [Zestia]> https://raw.githubusercontent.com/JosephShenton/ipas/master/PLIST-TEMPLATE.plist
+[2017-03-26 14:54:16] <Rhett [Zestia]> There. I made a plist template
+[2017-03-26 14:54:23] <Rhett [Zestia]> And no dylan. Tutu is smarter than that
+[2017-03-26 14:54:40] <iOSHQ [Zestia Team]> I tried to tell him that
+[2017-03-26 14:54:50] <Dylan [Zestia Team]> I got another idea..One sec
+[2017-03-26 14:55:21] <Rhett [Zestia]> I'll sniff around when I get home
+[2017-03-26 14:55:26] <Rhett [Zestia]> OH FUCK I KNOW
+[2017-03-26 14:55:31] <iOSHQ [Zestia Team]> Sniff sniff
+[2017-03-26 14:55:47] <Rhett [Zestia]> SquidMan might let me see the outgoing and ongoing connection
+[2017-03-26 14:55:55] <iOSHQ [Zestia Team]> we just have to look into the plist file and delete tutus safeguard
+[2017-03-26 14:55:56] <Rhett [Zestia]> That lets me see what URL it's requesting
+[2017-03-26 14:56:00] <iOSHQ [Zestia Team]> SquidMan?
+[2017-03-26 14:56:00] <Josh [Zestia]> [Media-gif] https://pbs.twimg.com/dm_gif/846073244163596288/aLkBqI9UpRpHGcWtuJIchHY4wSG_fjP-GOMT8pvSgA1dsDlY9X.mp4 [Media-preview] https://pbs.twimg.com/dm_gif_preview/846073244163596288/aLkBqI9UpRpHGcWtuJIchHY4wSG_fjP-GOMT8pvSgA1dsDlY9X.jpg Rhett sniffing
+[2017-03-26 14:56:07] <iOSHQ [Zestia Team]> omfg
+[2017-03-26 14:56:17] <Rhett [Zestia]> [Face with tears of joy] no josh
+[2017-03-26 14:56:22] <Rhett [Zestia]> [Face with tears of joy] no ioshq
+[2017-03-26 14:56:23] <Dylan [Zestia Team]> [Face with tears of joy]
+[2017-03-26 14:56:25] <iOSHQ [Zestia Team]> That's josh
+[2017-03-26 14:56:29] <iOSHQ [Zestia Team]> EXPOSED
+[2017-03-26 14:56:38] <Josh [Zestia]> What?
+[2017-03-26 14:56:46] <Josh [Zestia]> Exposed for what?[Face with tears of joy]
+[2017-03-26 14:56:56] <iOSHQ [Zestia Team]> You sniff your fingers after scratching ur balls
+[2017-03-26 14:56:59] <iOSHQ [Zestia Team]> Exposed
+[2017-03-26 14:57:09] <Dylan [Zestia Team]> RHETT
+[2017-03-26 14:57:15] <Dylan [Zestia Team]> would a link like this work??
+[2017-03-26 14:57:18] <Dylan [Zestia Team]> itms-services://?action=download-manifest&url=https%3A%2F%http://2Ftweakboxapp.com
+[2017-03-26 14:57:19] <Josh [Zestia]> Omg you exposed me[Face screaming in fear]
+[2017-03-26 14:57:25] <iOSHQ [Zestia Team]> No
+[2017-03-26 14:57:40] <iOSHQ [Zestia Team]> It's gotta be a list
+[2017-03-26 14:57:42] <Rhett [Zestia]> Let me see. That would OTA install. I don't know what link your direction it to tho
+[2017-03-26 14:57:42] <iOSHQ [Zestia Team]> Plist
+[2017-03-26 14:59:10] <Rhett [Zestia]> Maybe I could make a video if we are having issues lol
+[2017-03-26 14:59:45] <iOSHQ [Zestia Team]> I'm sniffing hold up
+[2017-03-26 15:00:13] <Rhett [Zestia]> Sniffing? [Face with tears of joy]
+[2017-03-26 15:01:11] <Dylan [Zestia Team]> itms-services://?action=download-manifest&url=https%3A%2F%http://2Fzestia.lmdinteractive.com
+[2017-03-26 15:01:15] <Dylan [Zestia Team]> That?
+[2017-03-26 15:01:24] <Dylan [Zestia Team]> Once we upload it to Zestia I think it would work
+[2017-03-26 15:01:34] <Rhett [Zestia]> No.
+[2017-03-26 15:01:37] <Rhett [Zestia]> It won't
+[2017-03-26 15:01:41] <Dylan [Zestia Team]> Why?
+[2017-03-26 15:01:45] <Rhett [Zestia]> What the fuck is that link?
+[2017-03-26 15:01:54] <Dylan [Zestia Team]> It's a alarm or some shit
+[2017-03-26 15:02:03] <Rhett [Zestia]> It's not a plist
+[2017-03-26 15:02:08] <Rhett [Zestia]> And the app isn't signed
+[2017-03-26 15:02:15] <Dylan [Zestia Team]> Well fuck
+[2017-03-26 15:02:27] <Dylan [Zestia Team]> Idk. I just stole it from tweakbox tbh [Face with tears of joy]
+[2017-03-26 15:02:31] <Rhett [Zestia]> I gotcha Dylan. Don't worry [Face with tears of joy]
+[2017-03-26 15:02:32] <Josh [Zestia]> Lol
+[2017-03-26 15:02:39] <Rhett [Zestia]> Wait. Through tweakbox?
+[2017-03-26 15:02:43] <Dylan [Zestia Team]> I remembered when I used it a whole back I could just copy and paste his download links
+[2017-03-26 15:02:56] <Dylan [Zestia Team]> Yeah. Just download it to try to see if it would work
+[2017-03-26 15:02:58] <Rhett [Zestia]> Yea. I assume tweakbox just UDID signs
+[2017-03-26 15:03:18] <Rhett [Zestia]> It doesn't [Face with tears of joy]
+[2017-03-26 15:03:21] <Rhett [Zestia]> It's not a plist
+[2017-03-26 15:03:31] <Dylan [Zestia Team]> Yeah got it
+[2017-03-26 15:03:47] <Rhett [Zestia]> [Media-image] https://ton.twitter.com/1.1/ton/data/dm/846075223799746569/846075215100559360/uRoLXAPS.jpg See
+[2017-03-26 15:04:02] <Rhett [Zestia]> Make sure it ends in .plist or it doesn't work bish
+[2017-03-26 15:05:02] <Rhett [Zestia]> Also. If your uploading to GitHub in the future make sure it's raw
+[2017-03-26 15:05:31] <Rhett [Zestia]> Haha. Fuck you tutu
+[2017-03-26 15:05:37] <Rhett [Zestia]> On the app click on share, select any options, copy the link, open it in MihTool, click install, it will show the plist link
+[2017-03-26 15:07:04] <Dylan [Zestia Team]> [Face with tears of joy]
+[2017-03-26 15:07:08] <Dylan [Zestia Team]> So problem solved?
+[2017-03-26 15:07:16] <iOSHQ [Zestia Team]> ?action=download-manifest&url=https://tutuapp.com/vn/2876343.plist
+[2017-03-26 15:07:20] <iOSHQ [Zestia Team]> This?
+[2017-03-26 15:07:36] <iOSHQ [Zestia Team]> Rhett
+[2017-03-26 15:07:43] <iOSHQ [Zestia Team]> Is this what you mean?
+[2017-03-26 15:08:23] <Rhett [Zestia]> [Face with tears of joy][Face with tears of joy][Face with tears of joy]
+[2017-03-26 15:08:51] <Dylan [Zestia Team]> No
+[2017-03-26 15:08:56] <Rhett [Zestia]> What the heck is that plist even to?
+[2017-03-26 15:09:24] <Rhett [Zestia]> Just let me do it and I will show u guys. Give me a minute
+[2017-03-26 15:11:33] <Dylan [Zestia Team]> Can you explain how to get the plist from mihtool?
+[2017-03-26 15:11:59] <Rhett [Zestia]> Yes. Let me try it myself and make sure it works first
+[2017-03-26 15:12:16] <Dylan [Zestia Team]> Ok
+[2017-03-26 15:15:00] <Dylan [Zestia Team]> ?
+[2017-03-26 15:19:32] <Rhett [Zestia]> Give me a minute
+[2017-03-26 15:19:38] <Rhett [Zestia]> I'm trying to get tutu helper
+[2017-03-26 15:24:28] <Dylan [Zestia Team]> You just download it..[Face with tears of joy]
+[2017-03-26 15:27:40] <Dylan [Zestia Team]> What does itransmission do?
+[2017-03-26 15:29:32] <Rhett [Zestia]> I seriously just bought it so we can get plists
+[2017-03-26 15:29:35] <Rhett [Zestia]> And it won't install
+[2017-03-26 15:29:51] <Dylan [Zestia Team]> [Face with tears of joy] Rhett I've had it since July...you could have just told me what to do
+[2017-03-26 15:29:57] <Dylan [Zestia Team]> I bought it before I found Zestia...
+[2017-03-26 15:30:05] <Dylan [Zestia Team]> Or before I joined the team I should say
+[2017-03-26 15:30:44] <Dylan [Zestia Team]> You gotta click open in AppStore
+[2017-03-26 15:32:02] <Rhett [Zestia]> I got it
+[2017-03-26 15:32:11] <Rhett [Zestia]> But what's the difference in VIP and regular?
+[2017-03-26 15:32:18] <iOSHQ [Zestia Team]> Lmao
+[2017-03-26 15:32:22] <iOSHQ [Zestia Team]> Tutu?
+[2017-03-26 15:32:32] <iOSHQ [Zestia Team]> Is that what you're talking about?
+[2017-03-26 15:32:55] <Rhett [Zestia]> Yes
+[2017-03-26 15:33:09] <Dylan [Zestia Team]> Rhett only difference is its faster and no revokes...
+[2017-03-26 15:33:11] <Dylan [Zestia Team]> That's it
+[2017-03-26 15:33:19] <iOSHQ [Zestia Team]> No
+[2017-03-26 15:33:24] <Dylan [Zestia Team]> What else?
+[2017-03-26 15:33:27] <iOSHQ [Zestia Team]> TUTU VIP signs your UDID
+[2017-03-26 15:33:35] <Dylan [Zestia Team]> Exactly. No revokes.
+[2017-03-26 15:33:38] <iOSHQ [Zestia Team]> and you can't just download VIP
+[2017-03-26 15:33:44] <iOSHQ [Zestia Team]> It builds for your UDID only
+[2017-03-26 15:33:50] <iOSHQ [Zestia Team]> WAIT A MINUTE
+[2017-03-26 15:33:52] <Dylan [Zestia Team]> Exactly. No revokes.
+[2017-03-26 15:34:03] <iOSHQ [Zestia Team]> it's against the rules to support a competitor
+[2017-03-26 15:34:15] <Rhett [Zestia]> We are doing it to get plists [Face with tears of joy]
+[2017-03-26 15:34:18] <Dylan [Zestia Team]> Not really..I bought before I joined the team
+[2017-03-26 15:34:23] <iOSHQ [Zestia Team]> I have Signulous
+[2017-03-26 15:34:26] <Dylan [Zestia Team]> Yeah. I haven't used it in forever tbh
+[2017-03-26 15:34:26] <iOSHQ [Zestia Team]> I won it
+[2017-03-26 15:34:31] <iOSHQ [Zestia Team]> Is that a bad thing?
+[2017-03-26 15:34:38] <iOSHQ [Zestia Team]> Hat I use signulous?
+[2017-03-26 15:35:03] <iOSHQ [Zestia Team]> Hold on I'll get the iTransmission plist
+[2017-03-26 15:36:59] <iOSHQ [Zestia Team]> dd58054d-d0cf-3b20-8fbc-637818c31796
+[2017-03-26 15:37:02] <iOSHQ [Zestia Team]> Whoops
+[2017-03-26 15:37:09] <iOSHQ [Zestia Team]> itms-services://?action=download-manifest&url=https://dashboard.signulous.com/files/user/453/24hlwhbpgjoks00woc.ipa.plist
+[2017-03-26 15:37:14] <Rhett [Zestia]> Holy shot
+[2017-03-26 15:37:16] <iOSHQ [Zestia Team]> Her you go
+[2017-03-26 15:37:20] <Rhett [Zestia]> I fucking did it
+[2017-03-26 15:37:27] <iOSHQ [Zestia Team]> What'd you do?
+[2017-03-26 15:37:46] <Rhett [Zestia]> We can get all the plists
+[2017-03-26 15:37:50] <Rhett [Zestia]> It works [Heavy red heart][Heavy red heart][Heavy red heart][Smiling face with heart-shaped eyes][Smiling face with heart-shaped eyes][Smiling face with heart-shaped eyes]
+[2017-03-26 15:37:51] <iOSHQ [Zestia Team]> How
+[2017-03-26 15:37:56] <Dylan [Zestia Team]> Show us
+[2017-03-26 15:37:57] <iOSHQ [Zestia Team]> How
+[2017-03-26 15:38:00] <Dylan [Zestia Team]> Screen record it for us
+[2017-03-26 15:38:04] <iOSHQ [Zestia Team]> no
+[2017-03-26 15:38:14] <iOSHQ [Zestia Team]> just do a pastebin on the instructions
+[2017-03-26 15:39:27] <Rhett [Zestia]> I'll do a video
+[2017-03-26 15:39:30] <Rhett [Zestia]> Just a sec
+[2017-03-26 15:41:41] <Dylan [Zestia Team]> We gonna steal all Tutus customers [Face with tears of joy]
+[2017-03-26 15:44:12] <Rhett [Zestia]> [Media-video] https://twitter.com/i/videos/dm/846085397612515332 [Media-preview] https://pbs.twimg.com/dm_video_preview/846085328897130496/img/5PvAbTRxi5hrMQXSU50IoL2dwAdh9wUaRxhcqNeo0YI.jpg
+[2017-03-26 15:44:28] <iOSHQ [Zestia Team]> I'm gonna wait a few
+[2017-03-26 15:44:32] <iOSHQ [Zestia Team]> Because I'm on cell data
+[2017-03-26 15:45:05] <Rhett [Zestia]> [Card-direct_store_link_app] https://itunes.apple.com/us/app/mihtool-basic-web-debugger/id584739126?mt=8
+[2017-03-26 15:45:14] <Dylan [Zestia Team]> Lit
+[2017-03-26 15:45:26] <iOSHQ [Zestia Team]> Lmao
+[2017-03-26 15:45:27] <Dylan [Zestia Team]> Wait Rhett is that regular or VIP?
+[2017-03-26 15:45:30] <Josh [Zestia]> Rhett
+[2017-03-26 15:45:30] <iOSHQ [Zestia Team]> Classic iOS 6
+[2017-03-26 15:45:34] <iOSHQ [Zestia Team]> VIP
+[2017-03-26 15:45:37] <iOSHQ [Zestia Team]> I think
+[2017-03-26 15:45:50] <iOSHQ [Zestia Team]> Does watching the video take my cell data
+[2017-03-26 15:45:59] <Josh [Zestia]> Yes
+[2017-03-26 15:46:05] <Josh [Zestia]> If you aren't on wifi
+[2017-03-26 15:46:07] <Rhett [Zestia]> Regular
+[2017-03-26 15:46:11] <Rhett [Zestia]> VIP won't work
+[2017-03-26 15:46:13] <Josh [Zestia]> Rhett
+[2017-03-26 15:46:14] <iOSHQ [Zestia Team]> Lmao
+[2017-03-26 15:46:16] <Rhett [Zestia]> I shouldn't have even bought it
+[2017-03-26 15:46:19] <iOSHQ [Zestia Team]> I have to wait then
+[2017-03-26 15:46:34] <iOSHQ [Zestia Team]> one question about appsicle
+[2017-03-26 15:46:45] <Rhett [Zestia]> Yea
+[2017-03-26 15:46:53] <iOSHQ [Zestia Team]> if my UDID is signed through appsicle
+[2017-03-26 15:46:53] <Josh [Zestia]> Rhett my last name is zestia[Neutral face]
+[2017-03-26 15:46:58] <Josh [Zestia]> Isn't*
+[2017-03-26 15:47:02] <iOSHQ [Zestia Team]> Will it signed
+[2017-03-26 15:47:17] <iOSHQ [Zestia Team]> Will it work for things that need a UDID signed
+[2017-03-26 15:47:22] <iOSHQ [Zestia Team]> Like TUTU VIO
+[2017-03-26 15:47:24] <iOSHQ [Zestia Team]> VIP
+[2017-03-26 15:47:29] <Josh [Zestia]> No
+[2017-03-26 15:47:37] <iOSHQ [Zestia Team]> Ok
+[2017-03-26 15:47:48] <Dylan [Zestia Team]> Ok Rhett slight problem
+[2017-03-26 15:47:49] <Rhett [Zestia]> No
+[2017-03-26 15:47:59] <Dylan [Zestia Team]> When you click install it still says tutu would like to install
+[2017-03-26 15:48:05] <iOSHQ [Zestia Team]> we can fix it
+[2017-03-26 15:48:07] <Rhett [Zestia]> I'm working on it now
+[2017-03-26 15:48:30] <Josh [Zestia]> Isn't that an easy fix
+[2017-03-26 15:48:43] <iOSHQ [Zestia Team]> Yh
+[2017-03-26 15:48:54] <iOSHQ [Zestia Team]> Just host it on LMDInteractive
+[2017-03-26 15:49:01] <iOSHQ [Zestia Team]> Since it's signed
+[2017-03-26 15:49:05] <iOSHQ [Zestia Team]> itms-services://?action=download-manifest&url=https://dashboard.signulous.com/files/user/453/24hlwhbpgjoks00woc.ipa.plist
+[2017-03-26 15:49:12] <iOSHQ [Zestia Team]> I'll get some plists
+[2017-03-26 15:49:16] <iOSHQ [Zestia Team]> Lmfao
+[2017-03-26 15:49:21] <iOSHQ [Zestia Team]> Not right now
+[2017-03-26 15:49:32] <Rhett [Zestia]> Nah we are having a slight problem
+[2017-03-26 15:49:43] <iOSHQ [Zestia Team]> The link?
+[2017-03-26 15:49:59] <iOSHQ [Zestia Team]> Let me look at the template
+[2017-03-26 15:52:25] <Dylan [Zestia Team]> Dunno how we're gonna fix the tutu party
+[2017-03-26 15:52:29] <Dylan [Zestia Team]> Part*
+[2017-03-26 15:52:36] <iOSHQ [Zestia Team]> change the link
+[2017-03-26 15:52:41] <iOSHQ [Zestia Team]> Hide it or something
+[2017-03-26 15:52:48] <iOSHQ [Zestia Team]> When I get home I'll check it out
+[2017-03-26 15:53:08] <Rhett [Zestia]> They have protection setup
+[2017-03-26 15:53:10] <Rhett [Zestia]> Damnit
+[2017-03-26 15:53:11] <iOSHQ [Zestia Team]> Or when I get to where I'm going I'll look at it on my phone maybe
+[2017-03-26 15:53:14] <Rhett [Zestia]> Okay. I got this.
+[2017-03-26 15:53:25] <iOSHQ [Zestia Team]> isn't the iPA signed tho
+[2017-03-26 15:53:34] <iOSHQ [Zestia Team]> They can't stop the download of an IPA
+[2017-03-26 15:53:42] <Rhett [Zestia]> Yes they are apparently.
+[2017-03-26 15:53:48] <iOSHQ [Zestia Team]> try it then
+[2017-03-26 15:54:32] <Rhett [Zestia]> It is. I'm saying the plist has protection
+[2017-03-26 15:54:52] <iOSHQ [Zestia Team]> Make a new plist
+[2017-03-26 15:54:59] <iOSHQ [Zestia Team]> Or find the protection
+[2017-03-26 15:55:03] <iOSHQ [Zestia Team]> And delete it
+[2017-03-26 15:55:31] <iOSHQ [Zestia Team]> I'll look through it when I get to the bar
+[2017-03-26 15:55:33] <Rhett [Zestia]> I already tried that man
+[2017-03-26 15:55:37] <Rhett [Zestia]> I am working on it
+[2017-03-26 15:55:49] <iOSHQ [Zestia Team]> I'll look through the plist at the bar
+[2017-03-26 15:55:56] <iOSHQ [Zestia Team]> If I'm right
+[2017-03-26 15:56:02] <iOSHQ [Zestia Team]> We can change the name too
+[2017-03-26 15:56:28] <iOSHQ [Zestia Team]> So we can put it as (example) Snap++
+[2017-03-26 15:56:34] <iOSHQ [Zestia Team]> And change the bundle ID
+[2017-03-26 15:57:29] <Dylan [Zestia Team]> If we replace the http://tutu.com
+[2017-03-26 15:57:39] <Rhett [Zestia]> No we can't dude
+[2017-03-26 15:57:45] <Rhett [Zestia]> You don't understand the problem
+[2017-03-26 15:57:56] <Dylan [Zestia Team]> What's the problem?
+[2017-03-26 15:57:58] <iOSHQ [Zestia Team]> Dylan
+[2017-03-26 15:58:05] <iOSHQ [Zestia Team]> TUtu protects their IP
+[2017-03-26 15:58:07] <iOSHQ [Zestia Team]> As
+[2017-03-26 15:58:10] <Rhett [Zestia]> I'm talking to u ioshq
+[2017-03-26 15:58:15] <iOSHQ [Zestia Team]> Oh
+[2017-03-26 15:58:16] <Rhett [Zestia]> Same with Dylan
+[2017-03-26 15:58:18] <iOSHQ [Zestia Team]> I understand
+[2017-03-26 15:58:25] <Rhett [Zestia]> You guys don't understand what's going on
+[2017-03-26 15:58:26] <iOSHQ [Zestia Team]> I don't think you've looked enough
+[2017-03-26 15:58:35] <Rhett [Zestia]> No man. I know what I'm doing
+[2017-03-26 15:58:41] <iOSHQ [Zestia Team]> All .plist files are editable easily
+[2017-03-26 15:58:45] <Dylan [Zestia Team]> Rhett I understand. Tutu made it so you need their app for it to work.
+[2017-03-26 15:58:45] <iOSHQ [Zestia Team]> Right?
+[2017-03-26 15:58:53] <Rhett [Zestia]> You don't understand bro. It's not a fucking plist
+[2017-03-26 15:58:59] <iOSHQ [Zestia Team]> The IPA
+[2017-03-26 15:59:00] <Rhett [Zestia]> They made their own type of plist shit.
+[2017-03-26 15:59:06] <iOSHQ [Zestia Team]> hmmm
+[2017-03-26 15:59:10] <iOSHQ [Zestia Team]> I'll look into it
+[2017-03-26 15:59:13] <Dylan [Zestia Team]> Let's just steal from someone else...
+[2017-03-26 15:59:17] <Josh [Zestia]> Lol
+[2017-03-26 15:59:25] <Josh [Zestia]> Tweakbox
+[2017-03-26 15:59:31] <Dylan [Zestia Team]> Don't work
+[2017-03-26 15:59:32] <iOSHQ [Zestia Team]> Tweakbix...
+[2017-03-26 15:59:36] <Rhett [Zestia]> Their plists are not in plist form. They have it setup in sections. Their servers read it. And decide
+[2017-03-26 15:59:36] <iOSHQ [Zestia Team]> They have new iPAs
+[2017-03-26 15:59:38] <Josh [Zestia]> Kys tweakbox
+[2017-03-26 15:59:41] <Rhett [Zestia]> Tweakbox signs UDID
+[2017-03-26 15:59:45] <Rhett [Zestia]> Not enterprise
+[2017-03-26 15:59:51] <iOSHQ [Zestia Team]> No
+[2017-03-26 15:59:53] <Josh [Zestia]> Tweakbox sucks
+[2017-03-26 15:59:55] <Josh [Zestia]> [Face with tears of joy][Face with tears of joy]
+[2017-03-26 16:00:05] <Dylan [Zestia Team]> Any other apps?
+[2017-03-26 16:00:59] <Rhett [Zestia]> Just give me a little while
+[2017-03-26 16:01:05] <Rhett [Zestia]> I'll decode this shit
+[2017-03-26 16:02:58] <iOSHQ [Zestia Team]> I wanna show you something
+[2017-03-26 16:03:54] <Rhett [Zestia]> Okay Fire Marshall Bill.
+[2017-03-26 16:04:22] <iOSHQ [Zestia Team]> DONT PLAY WITH FIRE
+[2017-03-26 16:04:28] <Dylan [Zestia Team]> [Face with tears of joy]
+[2017-03-26 16:05:34] <iOSHQ [Zestia Team]> Tweaknox has over 600 paid apps now
+[2017-03-26 16:05:44] <iOSHQ [Zestia Team]> And a couple hundred more hacked games
+[2017-03-26 16:05:56] <Josh [Zestia]> Do they all work?
+[2017-03-26 16:06:28] <iOSHQ [Zestia Team]> Yeah
+[2017-03-26 16:06:30] <iOSHQ [Zestia Team]> Tested
+[2017-03-26 16:06:33] <Dylan [Zestia Team]> They don't use plist
+[2017-03-26 16:06:39] <Dylan [Zestia Team]> For the 3rd time
+[2017-03-26 16:06:40] <Josh [Zestia]> What do they use
+[2017-03-26 16:06:42] <iOSHQ [Zestia Team]> we can make it
+[2017-03-26 16:06:48] <iOSHQ [Zestia Team]> It's an IPA
+[2017-03-26 16:06:53] <iOSHQ [Zestia Team]> What's the issue
+[2017-03-26 16:07:05] <Dylan [Zestia Team]> So we just add .plist to the end? [Face with tears of joy]
+[2017-03-26 16:07:05] <Josh [Zestia]> They don't even sign it though
+[2017-03-26 16:07:19] <iOSHQ [Zestia Team]> Actually
+[2017-03-26 16:07:21] <iOSHQ [Zestia Team]> He did
+[2017-03-26 16:07:24] <Josh [Zestia]> It's pointless if it's not signed right?
+[2017-03-26 16:07:28] <iOSHQ [Zestia Team]> Tutu has none of the apps
+[2017-03-26 16:07:33] <iOSHQ [Zestia Team]> I mean
+[2017-03-26 16:07:35] <Dylan [Zestia Team]> How we make it a plist?
+[2017-03-26 16:07:45] <iOSHQ [Zestia Team]> It's in the .app folder I believe
+[2017-03-26 16:07:57] <Dylan [Zestia Team]> Too complicated
+[2017-03-26 16:08:06] <iOSHQ [Zestia Team]> Wow
+[2017-03-26 16:08:09] <iOSHQ [Zestia Team]> Really?!
+[2017-03-26 16:08:14] <Dylan [Zestia Team]> Idk...
+[2017-03-26 16:08:30] <iOSHQ [Zestia Team]> I edited plists when I was jailbroken lmao
+[2017-03-26 16:08:47] <Dylan [Zestia Team]> How hard was it
+[2017-03-26 16:08:51] <iOSHQ [Zestia Team]> Ol gonna get a tutu link and see what's inside
+[2017-03-26 16:09:02] <iOSHQ [Zestia Team]> Not hard if you know what you're doing
+[2017-03-26 16:09:11] <Dylan [Zestia Team]> How do you see inside the link?
+[2017-03-26 16:09:32] <iOSHQ [Zestia Team]> inspect it with powers
+[2017-03-26 16:09:35] <iOSHQ [Zestia Team]> Lmao
+[2017-03-26 16:09:39] <Dylan [Zestia Team]> Powers..?
+[2017-03-26 16:09:56] <iOSHQ [Zestia Team]> Filemanagers
+[2017-03-26 16:10:33] <Dylan [Zestia Team]> Apps or computer?
+[2017-03-26 16:11:02] <iOSHQ [Zestia Team]> Both depending
+[2017-03-26 16:11:19] <Dylan [Zestia Team]> Try to find an app and show me how to do it...in confused
+[2017-03-26 16:11:22] <iOSHQ [Zestia Team]> Ok
+[2017-03-26 16:11:26] <Dylan [Zestia Team]> Thanks
+[2017-03-26 16:11:27] <iOSHQ [Zestia Team]> Hold up
+[2017-03-26 16:12:00] <Rhett [Zestia]> I know what's happening
+[2017-03-26 16:13:06] <Dylan [Zestia Team]> What
+[2017-03-26 16:14:25] <Rhett [Zestia]> Those little shits [Face with tears of joy]
+[2017-03-26 16:14:32] <Rhett [Zestia]> Inspect the page source
+[2017-03-26 16:14:38] <Dylan [Zestia Team]> Hoe
+[2017-03-26 16:14:39] <Dylan [Zestia Team]> How
+[2017-03-26 16:14:47] <iOSHQ [Zestia Team]> Hahahahahaha
+[2017-03-26 16:15:03] <iOSHQ [Zestia Team]> On the app download site?
+[2017-03-26 16:17:01] <Rhett [Zestia]> They put the whole fucking plist in the page source
+[2017-03-26 16:17:08] <Rhett [Zestia]> Trying to hide that shot
+[2017-03-26 16:17:10] <Rhett [Zestia]> SHIT
+[2017-03-26 16:17:14] <iOSHQ [Zestia Team]> [Face with tears of joy][Face with tears of joy][Face with tears of joy][Face with tears of joy][Face with tears of joy][Face with tears of joy][Face with tears of joy]dumbasses
+[2017-03-26 16:17:15] <Dylan [Zestia Team]> So...what we do?
+[2017-03-26 16:17:37] <Rhett [Zestia]> I'm trying to figure out what the fuck also protection they have
+[2017-03-26 16:17:44] <Rhett [Zestia]> Because my plists won't work
+[2017-03-26 16:17:54] <Dylan [Zestia Team]> It isn't worth it tbh...we can just seal form another app
+[2017-03-26 16:20:04] <Rhett [Zestia]> Yes it is
+[2017-03-26 16:20:11] <Rhett [Zestia]> Tutu has a shit load
+[2017-03-26 16:24:45] <iOSHQ [Zestia Team]> To answer the question about Douments5
+[2017-03-26 16:24:51] <iOSHQ [Zestia Team]> [Media-image] https://ton.twitter.com/1.1/ton/data/dm/846095624433029123/846095618481176576/oRCjT7QH.jpg
+[2017-03-26 16:26:33] <Dylan [Zestia Team]> Is it possible to edit the download link in Documents5?
+[2017-03-26 16:27:39] <iOSHQ [Zestia Team]> Possibly
+[2017-03-26 16:27:42] <iOSHQ [Zestia Team]> Haven't checked
+[2017-03-26 16:29:01] <Rhett [Zestia]> No because tutu is a bitch
+[2017-03-26 16:29:43] <Dylan [Zestia Team]> How could we convert an IPA to .plist?
+[2017-03-26 16:30:08] <Rhett [Zestia]> [Face with tears of joy][Face with tears of joy][Face with tears of joy][Face with tears of joy][Face with tears of joy][Face with tears of joy][Face with tears of joy][Face with tears of joy][Face with tears of joy]
+[2017-03-26 16:30:36] <Dylan [Zestia Team]> Idk....[Face with tears of joy]
+[2017-03-26 16:30:49] <Rhett [Zestia]> Convert IPA to plist? [Face with tears of joy]
+[2017-03-26 16:31:02] <Dylan [Zestia Team]> MY MOM SAYS IM SPECIAL OK RHETT
+[2017-03-26 16:31:08] <iOSHQ [Zestia Team]> Same here
+[2017-03-26 16:31:13] <Rhett [Zestia]> You upload the signed IPA somewhere and link it to the fucking IPA DYLAN
+[2017-03-26 16:31:18] <Rhett [Zestia]> *PLIST
+[2017-03-26 16:31:21] <Dylan [Zestia Team]> Yeah I realize that
+[2017-03-26 16:31:24] <Dylan [Zestia Team]> Idk...
+[2017-03-26 16:31:47] <Dylan [Zestia Team]> So could we upload the IPA to any random website we make and then link it?
+[2017-03-26 16:33:33] <Rhett [Zestia]> We won't need to
+[2017-03-26 16:33:43] <Rhett [Zestia]> It's already on tutu. We just need to edit the plists
+[2017-03-26 16:33:56] <Dylan [Zestia Team]> Which is proving difficult...
+[2017-03-26 16:33:58] <iOSHQ [Zestia Team]> XD
+[2017-03-26 16:34:08] <iOSHQ [Zestia Team]> It'd have to be on a pc
+[2017-03-26 16:34:19] <iOSHQ [Zestia Team]> It's a pain  [Sneezing face]
+[2017-03-26 16:34:22] <iOSHQ [Zestia Team]> On mobile
+[2017-03-26 16:34:44] <Dylan [Zestia Team]> But is it possible..?
+[2017-03-26 16:34:50] <Rhett [Zestia]> It's proving difficult but I'm doing this shit
+[2017-03-26 16:34:53] <Rhett [Zestia]> I'm gonna do it
+[2017-03-26 16:35:00] <Rhett [Zestia]> Just fucking give me awhile
+[2017-03-26 16:35:01] <iOSHQ [Zestia Team]> Yes. But I don't have the apps to do it
+[2017-03-26 16:35:08] <Dylan [Zestia Team]> What apps?
+[2017-03-26 16:35:13] <Rhett [Zestia]> You will get them all
+[2017-03-26 16:35:19] <Rhett [Zestia]> I will compile everything for you guys
+[2017-03-26 16:35:24] <iOSHQ [Zestia Team]> K
+[2017-03-26 16:35:43] <Dylan [Zestia Team]> Rhett your doing all this on your phone?
+[2017-03-26 16:37:34] <Rhett [Zestia]> No
+[2017-03-26 16:37:36] <Rhett [Zestia]> Mac and phone
+[2017-03-26 16:47:12] <Rhett [Zestia]> Omg
+[2017-03-26 16:47:18] <iOSHQ [Zestia Team]> WhT
+[2017-03-26 16:47:19] <Dylan [Zestia Team]> ?
+[2017-03-26 16:47:28] <Rhett [Zestia]> This is a fucking pain in the ass
+[2017-03-26 16:47:33] <iOSHQ [Zestia Team]> Lmao
+[2017-03-26 16:47:42] <iOSHQ [Zestia Team]> Where's Leon
+[2017-03-26 16:47:45] <Rhett [Zestia]> I'm gonna get these bitches tho
+[2017-03-26 16:47:50] <iOSHQ [Zestia Team]> I thought he was gonna. Show is
+[2017-03-26 16:47:53] <iOSHQ [Zestia Team]> Us*
+[2017-03-26 16:48:03] <iOSHQ [Zestia Team]> How to do the DBs and stuff
+[2017-03-26 16:48:05] <Rhett [Zestia]> How to edit plists. You guys know how
+[2017-03-26 16:48:12] <iOSHQ [Zestia Team]> I do
+[2017-03-26 16:48:13] <iOSHQ [Zestia Team]> Yh
+[2017-03-26 16:51:36] <Rhett [Zestia]> Omg :)
+[2017-03-26 16:55:05] <Rhett [Zestia]> Everyone
+[2017-03-26 16:55:14] <Rhett [Zestia]> EVERY FUCKING BODY HERE
+[2017-03-26 16:57:09] <Rhett [Zestia]> GUYS
+[2017-03-26 16:57:12] <Rhett [Zestia]> OMG
+[2017-03-26 16:59:12] <Rhett [Zestia]> I FUCKING DID IT
+[2017-03-26 17:01:05] <Dylan [Zestia Team]> YEEEET
+[2017-03-26 17:01:18] <Dylan [Zestia Team]> But now we gotta do it for every. Single. App.
+[2017-03-26 17:01:35] <Rhett [Zestia]> We got this
+[2017-03-26 17:01:39] <Rhett [Zestia]> Dylan
+[2017-03-26 17:02:00] <Dylan [Zestia Team]> Yea
+[2017-03-26 17:02:24] <Rhett [Zestia]> What's your number
+[2017-03-26 17:02:28] <Rhett [Zestia]> I have to text u a link
+[2017-03-26 17:03:03] <Dylan [Zestia Team]> Lemme dm
+[2017-03-26 17:03:25] <Rhett [Zestia]> K
+[2017-03-26 17:04:35] <Dylan [Zestia Team]> Got it...what now?
+[2017-03-26 17:04:53] <Dylan [Zestia Team]> [Face with tears of joy]
+[2017-03-26 17:05:30] <Rhett [Zestia]> It works for u, right?
+[2017-03-26 17:06:09] <Dylan [Zestia Team]> Yes
+[2017-03-26 17:06:13] <Dylan [Zestia Team]> Says ZESTIA BITCHES
+[2017-03-26 17:10:18] <Rhett [Zestia]> Yea!!
+[2017-03-26 17:34:22] <Rhett [Zestia]> http://unblockmysites.weebly.com/ipas.html
+[2017-03-26 17:56:01] <Dylan [Zestia Team]> Any luck with iOS?
+[2017-03-26 17:57:55] <Rhett [Zestia]> I'm afraid it is impossible
+[2017-03-26 17:58:00] <Rhett [Zestia]> But I always find a way
+[2017-03-26 17:58:12] <Dylan [Zestia Team]> But if it's impossible...[Face with tears of joy]
+[2017-03-26 17:58:21] <Rhett [Zestia]> I got this bish
+[2017-03-26 17:58:31] <Dylan [Zestia Team]> Let's see it
+[2017-03-26 17:58:31] <Rhett [Zestia]> Btw. I updated the plist template to GitHub
+[2017-03-26 17:59:25] <Rhett [Zestia]> Actually it is possible
+[2017-03-26 17:59:31] <Rhett [Zestia]> I'll compile stuff for u guys
+[2017-03-26 17:59:39] <Dylan [Zestia Team]> Hoek
+[2017-03-26 17:59:49] <Dylan [Zestia Team]> Hurry doe. I wanna get working [Face with tears of joy]
+[2017-03-26 18:00:08] <Rhett [Zestia]> You need to buy a computer someday lol
+[2017-03-26 18:00:30] <Dylan [Zestia Team]> Nah I have one but my friend is using it rn. His broke and I mainly use my iPad for school stuff so...
+[2017-03-26 18:07:57] <Rhett [Zestia]> I'm working on it
+[2017-03-26 18:08:49] <Dylan [Zestia Team]> Ok so I'm in the GitHub thing right now and I want to test to see it I did something right. How do I get the actual download link?
+[2017-03-26 18:15:46] <Rhett [Zestia]> What do u mean
+[2017-03-26 18:19:46] <Dylan [Zestia Team]> The plist when you click it just opens the code inside. What do I click to actually download, for example, Pokémon?
+[2017-03-26 18:20:31] <Rhett [Zestia]> [Card-summary] https://github.com/ZestiaIPAS/plists Oh. Go here: https://github.com/ZestiaIPAS/plists
+[2017-03-26 18:28:04] <Rhett [Zestia]> Zestia now has a GitHub Dev Account
+[2017-03-26 18:31:22] <Dylan [Zestia Team]> Who deleted it??
+[2017-03-26 18:31:59] <Rhett [Zestia]> I made it private
+[2017-03-26 18:32:34] <Rhett [Zestia]> The login info is
+
+Username: ZestiaIPAS
+PASSWORD: Rhettrhett1.
+[2017-03-26 18:33:06] <Dylan [Zestia Team]> K
+[2017-03-26 18:50:30] <Rhett [Zestia]> Download MIHTools: http://goo.gl/Y0J0tOhttp://unblockmysites.weebly.com/ipas.htmlhttps://itunes.apple.com/us/app/codeanywhere/id436736239
+[DMConversationEntry] Ahmad S.| UW left
