@@ -38,6 +38,10 @@ Software Update (they are just a waste of time): http://adfreezestia.lmdinteract
 Hacked Games: http://adfreezestia.lmdinteractive.com/examples/zestiamarch/phphackedgames.php
 Candice: [Long URL extracted from profile](http://www.longurlmaker.com/go?id=sustainedprotractedextensiveq9URL.co.uk59wShorl6URLuShortURL12outstretchedMinilienMyURL194004Ne1G8LX.seShoterLink120p16q0YepIt117TinyURL5extensivetstringy01z19spread%2Boutl1f3PiURLd6ganglingWapURLb10011G8L13j0gWapURL056b2ShortURLShrtnd400171lengthydeepBeam.togreat1g39a7outstretched1URLcutlengthenedrunning9ffar%2Boff7spread%2Bout4URLviGetShortyURl.ie29MooURLShrinkURL27443MyURL0a3104f074URL.co.uka8kfar%2BoffMetamark0ShortenURL3lingering030lnk.in82NanoRefGetShortylastingsustainedFwdURLelongateu32clnk.in0outstretchedih04prolonged38f0stretchstretchingexpanded465FwdURL1kextensiveatCanURLe01Smallr00protractedSitelutions1q0X.seeafar%2Bofffar%2BreachingX.se4EzURL1740919201FhURL4talloo8rangyXilza5distant1Shortlinksfar%2Breaching3d810enduring3greatytyURL.co.ukbpstretchTinyLink6cdjUlimitTightURLlnk.ink1longishnbsganglinglofty828630spun%2Bout1Shrinkrelongated1lofty1r150distant0greatc60l364tallenlargedb1runningz9enduringc1stringy1UrlTea1k7lingeringNotLong2far%2Breaching1elongate0u86m5spread%2Bout1enduringTraceURLTinyLink343lengthy0dNutshellURLCanURLlongishf8greatzgangling8elongated3expanded06df1sustained8Shortlinksspun%2Boutenlarged1dnURLcut1a1b58belongatedenlargeda1SHurl7ms92c91516klingeringlengthyextensivelingering2a1DecentURLstretchspun%2Boutfar%2Boff15far%2Bofft20Shortlinksfar%2Boff0209Is.gd40lastingaURLcut1RubyURLsprolonged2bfar%2BoffMyURLdrawn%2BoutYATUC60144045fstringytall903outstretchedd11extensive0ShortURL319NotLongYATUC9ganglingenduringprolongedd949220Smallr0MooURL09sustainedne4lengthyvEzURLTraceURLStartURL02ShoterLink30121Fly2ehigh610bj6XilloftyRedirxgangling2fkX.setowering8Ulimit02k5107102EzURL2G8LSimURL0ganglingd00ShrinkURLTraceURL047rDoiopShredURLremote21TinyLink120ganglingCanURLlingering1b020expandedbspread%2Boutc3ey8206596SimURL9f1URL.co.uk00longishk92115xspread%2Boutfganglingq51e080ShrinkURL1822FhURLfar%2Boff3lofty0c1spun%2BoutG8Lsgreatfar%2Breachingspread%2Bout0great70e1ShredURL1cU76f100NanoRef22c401ShortenURLLiteURL49o31ftallf00enduring1sustainedzrangySitelutionsedistante1ShortenURL301URLalongish1ftall107tallMetamark89elongated020310dSitelutions02B651111) (note that it does 404 unless it's viewed inside of a WebClip. This is done with user agent checks.)
 
+## Appsicle
+
+We have little information on Appsicle but we believe the IPA is somewhere on Leon's servers. If you have a link to the IPA, please contact a member of the leak listed below.
+
 ## Trojan Claims
 
 Proof of Zestia planning to inject viruses into apps, or (more likely) as a way to not require TuTu:
@@ -48,6 +52,10 @@ Proof of Zestia planning to inject viruses into apps, or (more likely) as a way 
 [2017-04-02 17:57:50] <Leon M'laiel> But he'll get questions on why the fix is his app 
 [2017-04-02 17:58:02] <Rhett [Zestia]> Nah he doI ant use zestia
 ```
+
+## ZestiaIPAS/plists Repo
+
+Zestia has a **public** GitHub repository that serves all of the .PLISTS for Zestia. It is located [here](https://github.com/ZestiaIPAS/plists).
 
 ## Screenshots of DMs
 
