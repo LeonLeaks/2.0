@@ -85,10 +85,16 @@ This is against the advertiser's ToC and is considered fraud.
 ---
 
 ## Credits
-@DevSquad_: Organizer_
-@iosheadquarters: Mole and Informstion Gather Inside Zestia Chat
-@DanielD3V: Info Gatherer
-@Dumducks21: Wrote it all out and gathered info
-@(Undisclosed): Info Gatherer and DM extractor
-@WarsameOffical: Gatherer
-@Maxploit: Discovered Trojan Horse plans
+**@DevSquad_**: Organizer_
+
+**@iosheadquarters**: Mole and Informstion Gather Inside Zestia Chat
+
+**@DanielD3V**: Info Gatherer
+
+**@Dumducks21**: Wrote it all out and gathered info
+
+**@(Undisclosed)**: Info Gatherer and DM extractor
+
+**@WarsameOffical**: Info Gatherer
+
+**@Maxploit**: Discovered Trojan Horse plans
