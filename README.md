@@ -11,8 +11,6 @@ stealing and claiming there signed tweaks, they made it so the user must have th
 However once Leon and his team noticed this they decided to release a fix with there name on it and told their
 followers not to open the app as it's malicious (which it's not). If this is the case then why would he be distributing his apps?
 
----
-
 ## Group Chats
 
 Now to his group chats (he has multiple for multiple "parts" of Zestia). This is the most manipulative and scummy place on Twitter.
@@ -25,8 +23,6 @@ NOTE: HE SHOWS HOW-TO STEAL FROM TUTU WHO HE CLAIMS TO BE FRIENDS WITH.
 
 [Actual Video](https://drive.google.com/file/d/0B91MBTG3dW8LeVJOc2FfSXhFN3c/view)
 
----
-
 ## Haima
 
 All of Leon's hacked games section is stolen from hot.haima.me. Proof is provided below as an actual URI scheme:
@@ -35,16 +31,12 @@ All of Leon's hacked games section is stolen from hot.haima.me. Proof is provide
 itms-services://?action=download-manifest&url=https%3A%2F%2Ffree.lmdinteractive.com%2Fapphack.php%3Fipa%3Dhttp://hot.haima.me/infinite/201702/0916/com.fallentreegames.noon_1.20_20161116171200_1_7u7z6j.ipa%26icon%3Dhttp://is3.mzstatic.com/image/thumb/Purple4/v4/43/41/23/4341237a-b829-4cb1-f3c2-93759d9d529a/source/114x114bb.jpg%26title%3D.NOON.%2520-%2520@
 ```
 
----
-
 ## Zestia and Cadence on Desktop
 
 Ad-free Zestia:
 Software Update (they are just a waste of time): http://adfreezestia.lmdinteractive.com/examples/zestiamarch/
 Hacked Games: http://adfreezestia.lmdinteractive.com/examples/zestiamarch/phphackedgames.php
 Candice: [Long URL extracted from profile](http://www.longurlmaker.com/go?id=sustainedprotractedextensiveq9URL.co.uk59wShorl6URLuShortURL12outstretchedMinilienMyURL194004Ne1G8LX.seShoterLink120p16q0YepIt117TinyURL5extensivetstringy01z19spread%2Boutl1f3PiURLd6ganglingWapURLb10011G8L13j0gWapURL056b2ShortURLShrtnd400171lengthydeepBeam.togreat1g39a7outstretched1URLcutlengthenedrunning9ffar%2Boff7spread%2Bout4URLviGetShortyURl.ie29MooURLShrinkURL27443MyURL0a3104f074URL.co.uka8kfar%2BoffMetamark0ShortenURL3lingering030lnk.in82NanoRefGetShortylastingsustainedFwdURLelongateu32clnk.in0outstretchedih04prolonged38f0stretchstretchingexpanded465FwdURL1kextensiveatCanURLe01Smallr00protractedSitelutions1q0X.seeafar%2Bofffar%2BreachingX.se4EzURL1740919201FhURL4talloo8rangyXilza5distant1Shortlinksfar%2Breaching3d810enduring3greatytyURL.co.ukbpstretchTinyLink6cdjUlimitTightURLlnk.ink1longishnbsganglinglofty828630spun%2Bout1Shrinkrelongated1lofty1r150distant0greatc60l364tallenlargedb1runningz9enduringc1stringy1UrlTea1k7lingeringNotLong2far%2Breaching1elongate0u86m5spread%2Bout1enduringTraceURLTinyLink343lengthy0dNutshellURLCanURLlongishf8greatzgangling8elongated3expanded06df1sustained8Shortlinksspun%2Boutenlarged1dnURLcut1a1b58belongatedenlargeda1SHurl7ms92c91516klingeringlengthyextensivelingering2a1DecentURLstretchspun%2Boutfar%2Boff15far%2Bofft20Shortlinksfar%2Boff0209Is.gd40lastingaURLcut1RubyURLsprolonged2bfar%2BoffMyURLdrawn%2BoutYATUC60144045fstringytall903outstretchedd11extensive0ShortURL319NotLongYATUC9ganglingenduringprolongedd949220Smallr0MooURL09sustainedne4lengthyvEzURLTraceURLStartURL02ShoterLink30121Fly2ehigh610bj6XilloftyRedirxgangling2fkX.setowering8Ulimit02k5107102EzURL2G8LSimURL0ganglingd00ShrinkURLTraceURL047rDoiopShredURLremote21TinyLink120ganglingCanURLlingering1b020expandedbspread%2Boutc3ey8206596SimURL9f1URL.co.uk00longishk92115xspread%2Boutfganglingq51e080ShrinkURL1822FhURLfar%2Boff3lofty0c1spun%2BoutG8Lsgreatfar%2Breachingspread%2Bout0great70e1ShredURL1cU76f100NanoRef22c401ShortenURLLiteURL49o31ftallf00enduring1sustainedzrangySitelutionsedistante1ShortenURL301URLalongish1ftall107tallMetamark89elongated020310dSitelutions02B651111) (note that it does 404 unless it's viewed inside of a WebClip. This is done with user agent checks.)
-
----
 
 ## Trojan Claims
 
@@ -57,8 +49,6 @@ Proof of Zestia planning to inject viruses into apps, or (more likely) as a way 
 [2017-04-02 17:58:02] <Rhett [Zestia]> Nah he doI ant use zestia
 ```
 
----
-
 ## Screenshots of DMs
 
 Leaked DMs & proof about him stealing PLISTs: 
@@ -69,20 +59,14 @@ Leaked DMs & proof about him stealing PLISTs:
 ![](http://i.imgur.com/Qcv84X6.jpg)
 ![](http://i.imgur.com/WpK5NyQ.jpg)
 
----
-
 **All of the images, DMs, and more from the various chat members are in this [GitHub repository](https://github.com/LeonLeaks/2.0) for easy viewing. They have DDoS threats, Leon congratulates them on stealing, and more.**
 
 The DMs were extracted using DMArchiver, an open-source DM extractor.
-
----
 
 ## Fake Giveaways
 
 Note: He has done fake giveaways for iPhone 7's in the past where he made users click ads on his site as many times as he could.
 This is against the advertiser's ToC and is considered fraud.
-
----
 
 ## Credits
 **@DevSquad_**: Organizer_
