@@ -47,7 +47,7 @@ Candice: [Long URL extracted from profile](http://www.longurlmaker.com/go?id=sus
 
 ## Appsicle
 
-We have little information on Appsicle but we believe the IPA is somewhere on Leon's servers. If you have a link to the IPA, please contact a member of the leak listed below.
+Appsicle is most likely a scam. So far nobody is known with Appsicle access but Leon, despite his updates on it. If you want, [search up "Bought Appsicle" on Twitter](https://twitter.com/search?q=Bought%20Appsicle).
 
 ## Trojan Claims
 
