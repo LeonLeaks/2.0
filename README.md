@@ -41,8 +41,11 @@ itms-services://?action=download-manifest&url=https%3A%2F%2Ffree.lmdinteractive.
 ## Zestia and Cadence on Desktop
 
 Ad-free Zestia:
+
 Software Update (they are just a waste of time): http://adfreezestia.lmdinteractive.com/examples/zestiamarch/
+
 Hacked Games: http://adfreezestia.lmdinteractive.com/examples/zestiamarch/phphackedgames.php
+
 Candice: [Long URL extracted from profile](http://www.longurlmaker.com/go?id=sustainedprotractedextensiveq9URL.co.uk59wShorl6URLuShortURL12outstretchedMinilienMyURL194004Ne1G8LX.seShoterLink120p16q0YepIt117TinyURL5extensivetstringy01z19spread%2Boutl1f3PiURLd6ganglingWapURLb10011G8L13j0gWapURL056b2ShortURLShrtnd400171lengthydeepBeam.togreat1g39a7outstretched1URLcutlengthenedrunning9ffar%2Boff7spread%2Bout4URLviGetShortyURl.ie29MooURLShrinkURL27443MyURL0a3104f074URL.co.uka8kfar%2BoffMetamark0ShortenURL3lingering030lnk.in82NanoRefGetShortylastingsustainedFwdURLelongateu32clnk.in0outstretchedih04prolonged38f0stretchstretchingexpanded465FwdURL1kextensiveatCanURLe01Smallr00protractedSitelutions1q0X.seeafar%2Bofffar%2BreachingX.se4EzURL1740919201FhURL4talloo8rangyXilza5distant1Shortlinksfar%2Breaching3d810enduring3greatytyURL.co.ukbpstretchTinyLink6cdjUlimitTightURLlnk.ink1longishnbsganglinglofty828630spun%2Bout1Shrinkrelongated1lofty1r150distant0greatc60l364tallenlargedb1runningz9enduringc1stringy1UrlTea1k7lingeringNotLong2far%2Breaching1elongate0u86m5spread%2Bout1enduringTraceURLTinyLink343lengthy0dNutshellURLCanURLlongishf8greatzgangling8elongated3expanded06df1sustained8Shortlinksspun%2Boutenlarged1dnURLcut1a1b58belongatedenlargeda1SHurl7ms92c91516klingeringlengthyextensivelingering2a1DecentURLstretchspun%2Boutfar%2Boff15far%2Bofft20Shortlinksfar%2Boff0209Is.gd40lastingaURLcut1RubyURLsprolonged2bfar%2BoffMyURLdrawn%2BoutYATUC60144045fstringytall903outstretchedd11extensive0ShortURL319NotLongYATUC9ganglingenduringprolongedd949220Smallr0MooURL09sustainedne4lengthyvEzURLTraceURLStartURL02ShoterLink30121Fly2ehigh610bj6XilloftyRedirxgangling2fkX.setowering8Ulimit02k5107102EzURL2G8LSimURL0ganglingd00ShrinkURLTraceURL047rDoiopShredURLremote21TinyLink120ganglingCanURLlingering1b020expandedbspread%2Boutc3ey8206596SimURL9f1URL.co.uk00longishk92115xspread%2Boutfganglingq51e080ShrinkURL1822FhURLfar%2Boff3lofty0c1spun%2BoutG8Lsgreatfar%2Breachingspread%2Bout0great70e1ShredURL1cU76f100NanoRef22c401ShortenURLLiteURL49o31ftallf00enduring1sustainedzrangySitelutionsedistante1ShortenURL301URLalongish1ftall107tallMetamark89elongated020310dSitelutions02B651111) (note that it does 404 unless it's viewed inside of a WebClip. This is done with user agent checks.)
 
 ## Appsicle
@@ -67,11 +70,17 @@ Zestia has a **public** GitHub repository that serves all of the .PLISTS for Zes
 ## Screenshots of DMs
 
 Leaked DMs & proof about him stealing PLISTs: 
+
 ![](http://i.imgur.com/OrNdfi8.jpg)
+
 ![](http://i.imgur.com/UfIXs8P.jpg)
+
 ![](http://i.imgur.com/dy9TTsL.jpg)
+
 ![](http://i.imgur.com/4sDGSgR.jpg)
+
 ![](http://i.imgur.com/Qcv84X6.jpg)
+
 ![](http://i.imgur.com/WpK5NyQ.jpg)
 
 **All of the images, DMs, and more from the various chat members are in this [GitHub repository](https://github.com/LeonLeaks/2.0) for easy viewing. They have DDoS threats, Leon congratulates them on stealing, and more.**
