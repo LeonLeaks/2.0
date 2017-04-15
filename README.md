@@ -50,7 +50,7 @@ Candice: [Long URL extracted from profile](http://www.longurlmaker.com/go?id=sus
 
 ## Appsicle
 
-Appsicle is most likely a scam. So far nobody is known with Appsicle access but Leon, despite his updates on it. If you want, [search up "Bought Appsicle" on Twitter](https://twitter.com/search?q=Bought%20Appsicle).
+Appsicle is most likely a scam. So far nobody is known to have Appsicle access but Leon, despite his updates on it. If you want, [search up "Bought Appsicle" on Twitter](https://twitter.com/search?q=Bought%20Appsicle).
 
 ## Trojan Claims
 
